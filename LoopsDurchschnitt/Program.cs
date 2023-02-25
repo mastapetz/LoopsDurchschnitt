@@ -31,6 +31,7 @@
                 else
                 {
                     Console.WriteLine("Muss eine Zahl Sein.");
+                    continue;
                 }
                 if (notenEingabe > 0 && notenEingabe < 7)
                 {
